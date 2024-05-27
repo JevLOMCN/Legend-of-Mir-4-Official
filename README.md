@@ -40,4 +40,4 @@
 
 [Mir 3](https://github.com/Suprcode/Zircon)
 
-[Mir 3D](https://github.com/mir-ethernity/mir-eternal)
+[Mir 3D](https://github.com/damianday/Conquer)
